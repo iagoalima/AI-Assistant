@@ -272,9 +272,9 @@ Retorna todas as mensagens armazenadas.
 
 Possíveis evoluções:
 
-- [⏳] Integração com modelos GPT
-- [⏳] Autenticação de usuários
-- [⏳] Sistema de múltiplos usuários
+- [ ] Integração com modelos GPT
+- [ ] Autenticação de usuários
+- [ ] Sistema de múltiplos usuários
 - [ ] Interface utilizando React
 - [ ] Banco PostgreSQL
 - [ ] Deploy em nuvem
