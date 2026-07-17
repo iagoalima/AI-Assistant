@@ -6,6 +6,12 @@ O projeto simula um assistente conversacional capaz de armazenar informações d
 
 ---
 
+## 📸 Preview
+
+![AI Assistant](docs/preview.png)
+
+---
+
 ## 📌 Sobre o projeto
 
 O **AI Assistant** foi desenvolvido como um projeto Full Stack com o objetivo de criar uma base de assistente virtual escalável.
@@ -272,9 +278,9 @@ Retorna todas as mensagens armazenadas.
 
 Possíveis evoluções:
 
-- [⏳] Integração com modelos GPT
-- [⏳] Autenticação de usuários
-- [⏳] Sistema de múltiplos usuários
+- [ ] Integração com modelos GPT
+- [ ] Autenticação de usuários
+- [ ] Sistema de múltiplos usuários
 - [ ] Interface utilizando React
 - [ ] Banco PostgreSQL
 - [ ] Deploy em nuvem
